@@ -1,8 +1,11 @@
 개발언어 : JAVA(17)
+
 프레임워크 : Spring Boot, Spring JPA
+
 RDBMS : H2 Database
 
 테이블 설계
+
 Lecture (
     id : 고유 ID
     lecturer : 강연자
